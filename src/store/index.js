@@ -4,8 +4,7 @@ const INITIAL_STATE = {
   data: [
     'ReactJS',
     'VueJS',
-    'React Native',
-    'Node.js'
+    'React Native'
   ],
 }
 
